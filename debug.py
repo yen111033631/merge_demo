@@ -1,4 +1,4 @@
 def debugger():
-    print("GG")
+    print("GG!")
 
 
